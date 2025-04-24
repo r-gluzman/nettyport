@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <Container>
       <div id="hero-section">
-        <h1>Portfolio Base</h1>
+        <h1>Portfolio Netlify</h1>
         <p>My name is Alex ~ I build things, break things and mend things!</p>
         
         {/* Custom Button Component */}
